@@ -1,5 +1,5 @@
 思路：
-check if the input is overflow → [-2^(31),2^(31)]
+check if the input is overflow → $[-2^(31),2^(31)]$
 
 reverse()
 
