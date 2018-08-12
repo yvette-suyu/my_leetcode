@@ -1,7 +1,6 @@
 1.将‘dec’ int input 转换为‘bin’类型
 
-'''
-python
+'''python
 
   b=bin(N)
 '''
@@ -10,8 +9,8 @@ python
 然后使用统计1的个数
 
 
-'''
-python
+'''python
+
         for num in b:
             if num == '1':
                 has = has+1
